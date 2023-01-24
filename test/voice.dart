@@ -1,0 +1,3 @@
+mixin Voice{
+  String? makeVoice(){}
+}
